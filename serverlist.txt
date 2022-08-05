@@ -1,4 +1,4 @@
-Canadian_Server
+Canadien_Server
 Americain_Server
 Russian_Server
 Cataskort_Route
