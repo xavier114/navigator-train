@@ -1,0 +1,2 @@
+The official Canadien Server.
+Support Canadien Trains and French Language Support.
