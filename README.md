@@ -1,2 +1,2 @@
-# navigator-train
+# Navigator Train
 Navigator Train Server
